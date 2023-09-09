@@ -20,10 +20,10 @@
     * Deployed one project in the academic sector to solve the problem of thousands of students.
     * GPS and GSM Based Vehicle Tracking and Reservation with Estimated Arrival time functionality for educational pick and drop services providers
 ### Company Site 
-    🔗 [Fahad's Company Website](https://www.fastechsystem.com/)
+    🔗 
     
 ### Portfolio    
-    🔗 [Fahad's Personal Portfolio Website](https://www.fahadshahzad.com/)
+    🔗 
 
 ### Technologies I am working with:
     👉   Spring (Java)
