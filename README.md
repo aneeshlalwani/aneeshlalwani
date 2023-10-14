@@ -19,9 +19,6 @@
     * Accounting Management for Real Estate Business Deployed in more than 3 places
     * Deployed one project in the academic sector to solve the problem of thousands of students.
     * GPS and GSM Based Vehicle Tracking and Reservation with Estimated Arrival time functionality for educational pick and drop services providers
-### Company Site 
-    🔗 
-    
 ### Portfolio    
     🔗 
 
