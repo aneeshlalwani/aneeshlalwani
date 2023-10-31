@@ -1,6 +1,7 @@
 ### Hi there, Aneesh Lalwani here 😍 
 
-    
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 ### Student Life
     I did my matriculation and Intermediate from Gul Model Science Collage, Jacobabad, Sindh, Pakistan... 
     For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
