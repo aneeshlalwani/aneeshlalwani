@@ -35,14 +35,10 @@
     After having a handsome experience from a reputed software house, now I have my own best team and startup of more than 10 developers contributing and providing services 
     with mentioned technologies below
 >   For the front end I am using **React JS 🕸️**, and **Next.Js** with cool advance libraries according to customers' demand.
-    For backend, I use **Java(Spring boot)**, **Spring boot Microservices (Load Balancers etc)**
+    For backend, I use **JavaScript(Nodejs)**, **Nodejs (Expressjs)**
     I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my      understanding and to share my knowledge in the community because I believe that sharing is caring.
 ### My Work and projects
-    * Data analysis and operations on existing data with JS Graphical Interfaces with Spring boot as a backend service.
-    * POS Product deployed in more than 5 places in Markeet.
-    * Accounting Management for Real Estate Business Deployed in more than 3 places
-    * Deployed one project in the academic sector to solve the problem of thousands of students.
-    * GPS and GSM Based Vehicle Tracking and Reservation with Estimated Arrival time functionality for educational pick and drop services providers
+    
 ### Portfolio    
     🔗 
 
@@ -77,8 +73,6 @@
             Javascript
                 React.Js with Redux
                     Next.Js framework for Server Side Enterprise Application Development
-    👉  Mobile
-            Flutter
     👇 Tools:
     👉	JDK 1.8, 11, 17, 18
     👉	Databases
@@ -86,7 +80,6 @@
             * PostgreSQL Server
             * SQL Server
             * MongoDB Server for NoSQL Document-based Projects
-            * PhpMyAdmin
     👉  Version Control
             Github
             Bitbucket
