@@ -104,4 +104,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneeshlalwani&show_icons=true&theme=theme)
 <br/>
 ![GitHub Metrics](https://metrics.lecoq.io/aneeshlalwani)
+<br/>
 ![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshlalwani)  
