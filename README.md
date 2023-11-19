@@ -97,10 +97,10 @@
             Create
             UML
                  Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aneeshlalwani)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aneeshlalwani)
 <br/>
  ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=aneeshlalwani)
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=aneeshlalwani)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aneeshlalwani&show_icons=true&theme=dark)  
-![GitHub metrics](https://metrics.lecoq.io/aneeshlalwani)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneeshlalwani&show_icons=true&theme=dark)
+![GitHub Metrics](https://metrics.lecoq.io/aneeshlalwani)
 ![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshlalwani)  
