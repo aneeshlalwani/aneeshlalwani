@@ -101,6 +101,6 @@
 <br/>
  ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=aneeshlalwani)
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=aneeshlalwani)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneeshlalwani&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneeshlalwani&show_icons=true&theme=theme)
 ![GitHub Metrics](https://metrics.lecoq.io/aneeshlalwani)
 ![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshlalwani)  
