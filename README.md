@@ -41,8 +41,9 @@
 
 ### Programming Languages:
     👉	Java
-    👉	C++
+    👉	JavaScript
     👉	Python
+    👉	C++
 ### Technologies I am working with:
     👉	Front End
             HTML5
