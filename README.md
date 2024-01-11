@@ -1,4 +1,7 @@
 # Hi there 👋🏻, Aneesh Lalwani here 😎 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -80,12 +83,9 @@
                  Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aneeshlalwani)
 <br/>
- ![GitHub Repo Views](https://komarev.com/ghpvc/?username=aneeshlalwani) 
  ![GitHub Activity stats](https://activity-graph.herokuapp.com/graph?username=aneeshlalwani)
 <br/>
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=aneeshlalwani)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneeshlalwani&show_icons=true&theme=theme)
-<br/>
-![GitHub Metrics](https://metrics.lecoq.io/aneeshlalwani)
-<br/>
+<br />
 ![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshlalwani)  
