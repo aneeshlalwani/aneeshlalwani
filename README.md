@@ -37,8 +37,6 @@
 >   For the front end I am using **React JS 🕸️**, and **Next.Js** with cool advance libraries according to customers' demand.
     For backend, I use **JavaScript(Nodejs)**, **Nodejs (Expressjs)**
     I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my understanding and to share my knowledge in the community because I believe that sharing is caring.
-### My Work and projects
-    
 ### Portfolio    
     🔗 
 
@@ -84,6 +82,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aneeshlalwani)
 <br/>
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=aneeshlalwani)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aneeshlalwani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneeshlalwani&show_icons=true&theme=theme)
 <br />
 ![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshlalwani)  
