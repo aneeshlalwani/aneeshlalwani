@@ -80,6 +80,7 @@
                  Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aneeshlalwani)
 <br/>
+ [![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=aneeshlalwani)](https://github.com/aneeshlalwani)   
  ![GitHub Activity stats](https://activity-graph.herokuapp.com/graph?username=aneeshlalwani)
 <br/>
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=aneeshlalwani)  
