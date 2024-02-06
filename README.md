@@ -39,7 +39,7 @@
     I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my understanding and to share my knowledge in the community because I believe that sharing is caring.
 ### Portfolio
 
-🔗 [Portfolio](https://aneesh-portfolio-nine.vercel.app/)
+🔗 [https://aneesh-portfolio-nine.vercel.app/]
 
 
 ### Programming Languages:
