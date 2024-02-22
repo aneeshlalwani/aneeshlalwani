@@ -62,17 +62,16 @@
     👇 Tools:
     👉	JDK 1.8, 11, 17, 18
     👉	Databases
+            * MongoDB Server for NoSQL Document-based Projects
             * MySQL Community Server
             * PostgreSQL Server
             * SQL Server
-            * MongoDB Server for NoSQL Document-based Projects
     👉  Version Control
             Github
-            Bitbucket
-    👉  Development IDEs
+    👉  Development IDEs and Editors
+            Visual Studio Code
             JetBrains IntelliJ Idea (Community Edition)
             Netbeans
-            Visual Studio Code
             Eclipse 
     👉  APIs Testing Tools
             Postman Client
