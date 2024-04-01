@@ -27,10 +27,16 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-
-### Student Life
+<p align="center">
+  <em>
+    This is me <b>Aneesh Lalwani</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.iba-suk.edu.pk/"> <b>Sukkur IBA University</b>, Pakistan</a>.
+    An aspiring <b>Full-Stack Web Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Cyber Security Enthusiast.</b> 
+  <br>
+<!--   <b><i>"---Always Work Hard and Trust the Process---"</i></b> -->
+</p>
+<!-- ### Student Life
     I did my matriculation and Intermediate from Gul Model Science Collage, Jacobabad, Sindh, Pakistan... 
-    For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
+    For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major -->
 
 ###  Professional Side:
     ....................
