@@ -38,15 +38,7 @@
   <br>
 <!--   <b><i>"---Always Work Hard and Trust the Process---"</i></b> -->
 </p>
-<!-- ### Student Life
-    I did my matriculation and Intermediate from Gul Model Science Collage, Jacobabad, Sindh, Pakistan... 
-    For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major -->
 
-###  Professional Side:
-    ....................
->   For the front end I am using **React JS 🕸️**, and **Next.Js** with cool advance libraries according to customers' demand.
-    For backend, I use **JavaScript(Nodejs)**, **Nodejs (Expressjs)**
-    I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my understanding and to share my knowledge in the community because I believe that sharing is caring.
 ### Portfolio
 
 🔗 [https://aneesh-portfolio-nine.vercel.app/]
@@ -117,6 +109,9 @@
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=aneeshlalwani&theme=radical&border=7F3FBF&background=0D1117" alt="Aneeh's GitHub Trophies"/>
 </p>
+
+![Aneesh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aneeshlalwani&custom_title=Aneesh%20Lalwani's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br />
 
 ---
 <h3> Connect with me🤝: </h3>
