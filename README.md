@@ -29,7 +29,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Aneesh Lalwani</b>, a final year <b>Computer Science</b> undergrad student from <a href="https://www.iba-suk.edu.pk/"> <b>Sukkur IBA University</b>, Pakistan</a>.
+    This is me <b>Aneesh</b>, a final year <b>Computer Science</b> undergrad student from <a href="https://www.iba-suk.edu.pk/"> <b>Sukkur IBA University</b>, Pakistan</a>.
     An aspiring <b>Full-Stack Web Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Cyber Security Enthusiast.</b> 
   <br>
 <!--   <b><i>"---Always Work Hard and Trust the Process---"</i></b> -->
@@ -93,9 +93,9 @@
 </summary>
 <br>
 <p align="center">
-  <a href="https://github.com/aneeshlalwani">
+<!--   <a href="https://github.com/aneeshlalwani">
     <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=aneeshlalwani&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
+  </a> -->
   <a href="https://github.com/aneeshlalwani">
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshlalwani&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
