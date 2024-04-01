@@ -1,4 +1,8 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Aneesh Lalwani 😎</h1> 
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Aneesh Lalwani 😎</h1>
+<p align="center">
+  <a href="https://github.com/aneeshlalwani/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Web+Developer;Cyber Security%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
