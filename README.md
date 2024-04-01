@@ -108,4 +108,24 @@
 ![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=aneeshlalwani)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneeshlalwani&show_icons=true&theme=theme)
 <br />
-![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshlalwani)  
+![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshlalwani)
+
+---
+<h3> Connect with me🤝: </h3>
+  </hr>
+  <a href="www.linkedin.com/in/aneesh-lalwani">
+   <img align="left" alt=" Aneesh Lalwani | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:aneeshlalwani945@gmail.com">
+    <img align="left" alt="Aneesh Lalwani | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://www.instagram.com/mr_ane.esh/">
+    <img align="left" alt="Aneesh Lalwani | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+   <a href="https://github.com/aneeshlalwani">
+    <img align="left" alt="Aneesh Lalwani | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <br>
+  
+<p align="right" > Created with ❤️ by <a href="https://github.com/aneeshlalwani">aneeshlalwani</a></p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=aneeshlalwani&label=Profile%20views&color=0e75b6&style=flat" alt="aneeshlalwani" /> </p>
