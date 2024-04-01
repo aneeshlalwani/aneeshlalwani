@@ -98,22 +98,25 @@
 <br>
   <p align="center">
   <a href="https://github.com/aneeshlalwani">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshlalwani&theme=radical&border=7F3FBF&background=0D1117" alt="Aneesh's GitHub streak"/>
   </a>
 </p>
-<p align="center">
+  <p align="center">
   <a href="https://github.com/aneeshlalwani">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshlalwani&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneeshlalwani&theme=radical" alt="Aneesh's GitHub Contribution"/>
   </a>
 </p>
 </details>
+<a> 
+    <a href="https://github.com/aneeshlalwani"><img alt="Aneesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aneeshlalwani&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/aneeshlalwani"><img alt="Aneesh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aneeshlalwani&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aneeshlalwani)
-<br/>
-![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=aneeshlalwani)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aneeshlalwani&show_icons=true&theme=theme)
 <br />
-![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshlalwani)
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=aneeshlalwani&theme=radical&border=7F3FBF&background=0D1117" alt="Aneeh's GitHub Trophies"/>
+</p>
 
 ---
 <h3> Connect with me🤝: </h3>
