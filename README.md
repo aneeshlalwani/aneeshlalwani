@@ -53,39 +53,35 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)
 
-### Technologies I am working with:
-    👉	Front End
-            HTML5
-            CSS ======> SASS Framework
-            Bootstrap 5
-            Javascript
-                React.Js with Redux
-                    Next.Js framework for Server Side Enterprise Application Development
-     👉	Back End
-            Node.Js
-                ExpressJs
-            MongoDB            
-    👇 Tools:
-    👉	JDK 1.8, 11, 17, 18
-    👉	Databases
-            * MongoDB Server for NoSQL Document-based Projects
-            * MySQL Community Server
-            * PostgreSQL Server
-            * SQL Server
-    👉  Version Control
-            Github
-    👉  Development IDEs and Editors
-            Visual Studio Code
-            JetBrains IntelliJ Idea (Community Edition)
-            Netbeans
-            Eclipse 
-    👉  APIs Testing Tools
-            Postman Client
-    👉 Database Designing
-            Figma
-            Create
-            UML
-                 Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
+## Technologies I am working with:
+  ### Front End
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
+  ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+  
+  ### Back End
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
+  
+  ### Databases
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)
+  
+  ### Version Control
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
+  
+  ### Development IDEs and Editors
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&labelColor=black&logo=intellij-idea&logoColor=000000)
+  
+  ### APIs Testing Tools
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)
+
 
 <details open="">
 <summary>
