@@ -72,11 +72,7 @@
   ### Version Control
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
-  
-  ### Development IDEs and Editors
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&labelColor=black&logo=intellij-idea&logoColor=000000)
-  
+
   ### APIs Testing Tools
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)
 
