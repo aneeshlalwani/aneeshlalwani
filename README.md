@@ -40,10 +40,9 @@
 <!--   <b><i>"---Always Work Hard and Trust the Process---"</i></b> -->
 </p>
 
-### Portfolio
-
+<!--
 🔗 [https://aneesh-portfolio-nine.vercel.app/]
-
+-->
 
 ### Programming Languages:
   ![Java](https://img.shields.io/badge/Java-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
