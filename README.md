@@ -34,7 +34,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Aneesh</b>, a final year <b>Computer Science</b> undergrad student from <a href="https://www.iba-suk.edu.pk/"> <b>Sukkur IBA University</b>, Pakistan</a>.
+    This is <b>Aneesh</b>, <b>a Computer Science</b> graduate from <a href="https://www.iba-suk.edu.pk/"> <b>Sukkur IBA University</b>, Sindh, Pakistan</a>.
     An aspiring <b>Full-Stack Web Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Cyber Security Enthusiast.</b> 
   <br>
 <!--   <b><i>"---Always Work Hard and Trust the Process---"</i></b> -->
