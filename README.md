@@ -1,6 +1,6 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Aneesh Lalwani 😎</h1>
 <p align="center">
-  <a href="https://github.com/aneeshlalwani/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer%20Science%20Undergraduate;Full%20Stack%20Web%20Developer;Cyber%20Security%20Enthusiast;Aspiring%20Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/aneeshlalwani/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer%20Science%20Graduate;Full%20Stack%20Web%20Developer;Cyber%20Security%20Enthusiast;Aspiring%20Learner&center=true&width=500&height=50"></a>
 </p>
 
 <div id="header" align="center">
