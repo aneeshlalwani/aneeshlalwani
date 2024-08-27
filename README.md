@@ -55,8 +55,11 @@
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
   ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+  ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
+  ![Chakra UI Badge](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&labelColor=black&logo=chakraui&logoColor=319795)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
+  
   
   ### Back End
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)
