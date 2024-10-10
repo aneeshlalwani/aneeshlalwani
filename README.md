@@ -10,20 +10,16 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -35,7 +31,7 @@
 <p align="center">
   <em>
     This is <b>Aneesh</b>, <b>a Computer Science</b> graduate from <a href="https://www.iba-suk.edu.pk/"> <b>Sukkur IBA University</b>, Sindh, Pakistan</a>.
-    An aspiring <b>Full-Stack Web Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Cyber Security Enthusiast.</b> 
+    An aspiring <b>Web Developer,</b>&nbsp; <b>Competitive Programmer</b> 
   <br>
 <!--   <b><i>"---Always Work Hard and Trust the Process---"</i></b> -->
 </p>
@@ -48,20 +44,18 @@
   ![Java](https://img.shields.io/badge/Java-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
   ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)
 
 ## Technologies I am working with:
-  ### Front End
+  ### Frontend
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
   ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
   ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
   ![Chakra UI Badge](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&labelColor=black&logo=chakraui&logoColor=319795)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
   
   
-  ### Back End
+  ### Backend
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
@@ -69,6 +63,8 @@
   ### Databases
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57)
+  ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)
   
   ### Version Control
