@@ -1,19 +1,19 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Aneesh Lalwani 😎</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Aneesh 😎</h1>
 <p align="center">
-  <a href="https://github.com/aneeshlalwani/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer%20Science%20Graduate;Data%20Analyst;Web%20Developer;Passionate%20About%20Scalable%20Solutions&center=true&width=500&height=50"></a>
+  <a href="https://github.com/aneeshlalwani/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20Engineer;%20Aspiring%20Data%20Analyst&center=true&width=500&height=50"></a>
 </p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<p align="center">
+<!-- p align="center">
   <em>
     This is <b>Aneesh</b>, <b>a Computer Science</b> graduate from <a href="https://www.iba-suk.edu.pk/"> <b>Sukkur IBA University</b>, Sindh, Pakistan</a>.
     <b>Web Developer,</b>&nbsp; An aspiring <b>Data Analyst</b> 
   <br>
-<!--   <b><i>"---Always Work Hard and Trust the Process---"</i></b> -->
-</p>
+  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+</p -->
 
 <!--
 🔗 [https://aneesh-portfolio-nine.vercel.app/]
